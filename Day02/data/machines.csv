@@ -1,0 +1,7 @@
+machine_id,last_maintenance_date,status,operating_hours
+1,2026-06-01,Running,3000
+2,,Running,1200
+3,2025-01-01,Faulty,7000
+4,2026-07-01,Running,6200
+5,2026-08-10,Under Repair,5500
+6,,Faulty,900

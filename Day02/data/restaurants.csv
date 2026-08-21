@@ -1,0 +1,7 @@
+restaurant_id,restaurant_name,rating,city,is_promoted
+1,Spice Route,4.5,Bangalore,1
+2,Curry Point,3.8,Bangalore,0
+3,Pune Tadka,4.2,Pune,0
+4,Deccan Diner,3.5,Pune,1
+5,Andhra Bites,4.7,Bangalore,0
+6,Wada Pav Co,3.9,Pune,0

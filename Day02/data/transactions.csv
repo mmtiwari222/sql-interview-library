@@ -1,0 +1,8 @@
+transaction_id,amount,transaction_type,country,is_flagged
+1,12000,Transfer,India,0
+2,150000,International,USA,0
+3,5000,Refund,India,0
+4,200000,International,India,1
+5,300000,International,China,0
+6,8000,Refund,India,0
+7,110000,International,UK,0

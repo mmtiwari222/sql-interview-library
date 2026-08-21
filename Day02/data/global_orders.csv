@@ -1,0 +1,9 @@
+order_id,customer_country,order_status,shipping_country,billing_country,customer_account_age_days,total_amount,payment_status
+1,India,Delivered,India,India,400,2000,Paid
+2,India,Delivered,India,USA,3,60000,Pending
+3,USA,Cancelled,USA,USA,900,15000,Paid
+4,India,Returned,India,India,120,3000,Paid
+5,India,Delivered,India,India,10,55000,Pending
+6,UK,Delivered,UK,UK,250,8000,Paid
+7,India,Delivered,China,India,5,90000,Pending
+8,India,Cancelled,India,India,700,4000,Paid

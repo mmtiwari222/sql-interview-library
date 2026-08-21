@@ -1,0 +1,8 @@
+flight_id,origin,destination,delay_minutes,flight_status
+1,DEL,BOM,15,On Time
+2,BLR,DEL,75,Delayed
+3,DEL,MAA,90,Delayed
+4,BOM,CCU,30,On Time
+5,MAA,DEL,65,Cancelled
+6,DEL,HYD,10,On Time
+7,CCU,BLR,80,Delayed

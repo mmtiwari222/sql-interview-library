@@ -1,0 +1,9 @@
+product_id,name,price,category,stock_quantity,is_discontinued
+1,Wireless Mouse,600,Electronics,25,0
+2,Cotton T-Shirt,450,Apparel,5,0
+3,Smartphone Case,700,Mobiles,0,0
+4,Rice 5kg,350,Groceries,8,0
+5,Bluetooth Speaker,1800,Electronics,3,0
+6,Old Model TV,12000,Electronics,0,1
+7,Wheat Flour 10kg,900,Groceries,15,0
+8,Power Bank,1500,Electronics,6,0

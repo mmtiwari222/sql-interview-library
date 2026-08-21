@@ -1,0 +1,8 @@
+shipment_id,status,origin_city,expected_delivery_date,priority,customer_tier
+1,Delivered,Chennai,2026-08-01,High,Premium
+2,In Transit,Chennai,2026-08-05,Low,Regular
+3,Pending,Mumbai,2026-08-03,High,Regular
+4,Pending,Chennai,2026-08-20,Low,Regular
+5,In Transit,Delhi,2026-08-08,High,Premium
+6,Delivered,Chennai,2026-08-02,Low,Regular
+7,Pending,Pune,2026-07-30,High,Premium

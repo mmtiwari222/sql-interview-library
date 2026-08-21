@@ -1,0 +1,8 @@
+user_id,plan_name,signup_date,last_login_date,subscription_status
+1,Premium,2023-02-10,,Active
+2,Free,2022-05-01,2026-07-01,Active
+3,Standard,2023-06-15,2026-05-10,Active
+4,Premium,2022-11-20,2025-12-01,Cancelled
+5,Standard,2023-09-01,,Active
+6,Free,2024-01-01,2026-08-01,Active
+7,Premium,2023-03-03,2026-04-20,Active

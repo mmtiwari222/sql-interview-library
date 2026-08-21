@@ -1,0 +1,7 @@
+account_id,balance,account_type,last_transaction_date,is_frozen
+1,50,Savings,2026-06-01,0
+2,0,Current,2026-05-11,0
+3,90,Savings,,0
+4,200,Savings,2026-07-01,0
+5,30,Current,2026-01-20,1
+6,10,Savings,2026-03-15,0

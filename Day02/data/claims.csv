@@ -1,0 +1,7 @@
+claim_id,claim_amount,status,claim_type,days_since_policy_start
+1,120000,Approved,Theft,10
+2,8000,Rejected,Accident,200
+3,150000,Pending,Fire,5
+4,45000,Approved,Accident,400
+5,110000,Pending,Theft,60
+6,30000,Rejected,Fire,15

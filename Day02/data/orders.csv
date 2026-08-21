@@ -1,0 +1,11 @@
+order_id,order_date,total_amount,city,payment_method,order_status
+1,2026-01-05,1200,Delhi,Credit Card,Delivered
+2,2026-02-11,800,Mumbai,UPI,Delivered
+3,2026-02-20,6200,Delhi,Credit Card,Delivered
+4,2026-03-02,450,Pune,COD,Cancelled
+5,2026-03-15,5300,Mumbai,UPI,Delivered
+6,2026-04-01,9800,Bangalore,Debit Card,Delivered
+7,2026-04-10,300,Delhi,COD,Cancelled
+8,2026-05-02,7600,Mumbai,Credit Card,Cancelled
+9,2026-05-19,1500,Chennai,UPI,Delivered
+10,2026-06-01,6000,Delhi,UPI,Delivered

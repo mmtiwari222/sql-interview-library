@@ -1,0 +1,7 @@
+subscriber_id,plan_expiry,plan_type,outstanding_balance,status,plan_expiry_date,complaints_count,avg_usage_minutes
+1,Active,Postpaid,500,Active,2026-08-15,3,40
+2,Expired,Prepaid,0,Suspended,2026-05-01,0,80
+3,Active,Postpaid,0,Active,2026-10-01,0,120
+4,Active,Postpaid,1200,Active,2026-08-20,5,20
+5,Expired,Postpaid,300,Active,2026-06-01,1,45
+6,Active,Prepaid,0,Active,2026-12-01,0,200

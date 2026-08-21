@@ -1,0 +1,11 @@
+employee_id,first_name,department,salary,hire_date,sales_target_achieved,employment_status,tenure_years,performance_rating,is_on_pip
+1,Sara,Sales,55000,2022-05-10,72,Active,4,4.5,0
+2,Sunil,Engineering,95000,2021-01-15,,Active,5,4.8,0
+3,Rahim,Sales,42000,2023-03-20,35,Active,2,3.2,0
+4,Priya,Data,60000,2022-08-01,,Active,3,4.1,0
+5,Aisha,Marketing,48000,2023-11-11,,Active,1,3.9,0
+6,Sameer,Sales,75000,2022-02-14,48,Active,4,4.6,1
+7,Neha,Engineering,110000,2020-06-30,,Active,6,4.9,0
+8,Suhana,Data,68000,2023-01-05,,Active,3,4.2,0
+9,Vikram,Sales,80000,2021-09-09,65,Resigned,5,4.0,0
+10,Sanya,HR,39000,2023-07-18,,Active,1,3.5,0
