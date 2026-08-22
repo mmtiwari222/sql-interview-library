@@ -1,0 +1,8 @@
+subscriber_id,signup_date,plan_type,region,outstanding_balance
+1,2026-01-10,Postpaid,North,500
+2,2026-02-15,Prepaid,South,0
+3,2026-03-01,Postpaid,South,1200
+4,2026-01-20,Prepaid,North,0
+5,2026-04-05,Postpaid,North,300
+6,2026-05-11,Prepaid,South,150
+7,2026-06-01,Postpaid,East,900

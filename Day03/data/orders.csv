@@ -1,0 +1,13 @@
+order_id,order_date,total_amount,order_status
+1,2026-01-05,1200,Delivered
+2,2026-01-05,3400,Delivered
+3,2026-02-11,800,Pending
+4,2026-02-20,6200,Delivered
+5,2026-03-02,450,Cancelled
+6,2026-03-15,6200,Delivered
+7,2026-04-01,9800,Delivered
+8,2026-04-10,300,Cancelled
+9,2026-05-02,7600,Delivered
+10,2026-05-19,1500,Pending
+11,2026-06-01,6000,Delivered
+12,2026-06-01,9800,Delivered

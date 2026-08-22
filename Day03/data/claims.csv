@@ -1,0 +1,9 @@
+claim_id,claim_type,claim_amount
+1,Theft,120000
+2,Accident,8000
+3,Fire,150000
+4,Accident,45000
+5,Theft,95000
+6,Fire,95000
+7,Accident,30000
+8,Theft,60000
