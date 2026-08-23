@@ -1,0 +1,15 @@
+product_id,category,price,product_sku
+1,Electronics,600,SKU-EL-001
+2,Apparel,450,SKU-AP-001
+3,Mobiles,15000,SKU-MB-001
+4,Groceries,350,SKU-GR-001
+5,Electronics,1800,SKU-EL-002
+6,Electronics,12000,SKU-EL-003
+7,Groceries,900,SKU-GR-002
+8,Electronics,1500,SKU-EL-002
+9,Apparel,1200,SKU-AP-002
+10,Electronics,2200,SKU-EL-004
+11,Apparel,3500,SKU-AP-003
+12,Mobiles,22000,SKU-MB-002
+13,Mobiles,15000,SKU-MB-001
+14,Groceries,500,SKU-GR-003

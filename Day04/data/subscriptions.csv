@@ -1,0 +1,11 @@
+user_id,plan_name,is_active
+1,Premium,1
+2,Free,1
+3,Standard,1
+4,Premium,0
+5,Standard,1
+6,Free,1
+7,Premium,1
+8,Standard,0
+9,Premium,1
+10,Free,1

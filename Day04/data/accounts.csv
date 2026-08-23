@@ -1,0 +1,13 @@
+account_id,account_number,account_type,balance
+1,AC1001,Savings,15000
+2,AC1002,Current,8000
+3,AC1003,Savings,52000
+4,AC1004,Current,30000
+5,AC1005,Savings,9000
+6,AC1006,Current,47000
+7,AC1007,Savings,21000
+8,AC1002,Current,8000
+9,AC1008,Savings,60000
+10,AC1009,Current,15000
+11,AC1003,Savings,52000
+12,AC1010,Current,26000
