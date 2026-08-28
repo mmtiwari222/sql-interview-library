@@ -1,0 +1,11 @@
+account_id,balance,branch_id,account_type
+1,150000,101,Savings
+2,45000,101,Current
+3,220000,102,Savings
+4,80000,101,Savings
+5,30000,102,Current
+6,95000,102,Savings
+7,175000,103,Current
+8,60000,103,Savings
+9,50000,101,Current
+10,300000,103,Savings

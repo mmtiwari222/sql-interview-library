@@ -1,0 +1,9 @@
+patient_id,primary_phone,alternate_phone,department,patient_status,computed_age,manual_age_text
+1,9001,9002,Cardiology,Critical,65,
+2,9003,,Cardiology,Stable,,42
+3,,,Neurology,Discharged,8,
+4,9004,9005,Neurology,Critical,,70
+5,9006,,Orthopedics,Stable,35,
+6,,9007,Orthopedics,Discharged,,15
+7,9008,,Cardiology,Stable,55,
+8,9009,9010,Neurology,Critical,,62

@@ -1,0 +1,13 @@
+order_id,total_amount,product_category,status
+1,6200,Electronics,Delivered
+2,1200,Apparel,Delivered
+3,8900,Electronics,Cancelled
+4,450,Groceries,Delivered
+5,3200,Apparel,Cancelled
+6,7600,Electronics,Delivered
+7,900,Groceries,Delivered
+8,5100,Apparel,Delivered
+9,2200,Electronics,Cancelled
+10,600,Groceries,Cancelled
+11,9800,Electronics,Delivered
+12,1500,Apparel,Delivered

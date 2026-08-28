@@ -1,0 +1,11 @@
+subscriber_id,signup_date,plan_type,status
+1,2026-01-10,Postpaid,Active
+2,2026-02-15,Prepaid,Cancelled
+3,2026-03-01,Postpaid,Active
+4,2026-01-20,Prepaid,Active
+5,2026-04-05,Postpaid,Cancelled
+6,2026-05-11,Prepaid,Active
+7,2026-06-01,Postpaid,Active
+8,2026-02-25,Prepaid,Cancelled
+9,2026-03-18,Postpaid,Cancelled
+10,2026-04-22,Prepaid,Active
